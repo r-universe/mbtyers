@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "jagshelper"]
+	path = jagshelper
+	url = https://github.com/mbtyers/jagshelper
+	shallow = true
+	registered = true
+[submodule "recapr"]
+	path = recapr
+	url = https://github.com/mbtyers/recapr
+	shallow = true
+	registered = true
 [submodule "riverdist"]
 	path = riverdist
 	url = https://github.com/mbtyers/riverdist

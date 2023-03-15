@@ -1,5 +1,13 @@
 [
   {
+    "package": "jagshelper",
+    "oncran": true
+  },
+  {
+    "package": "recapr",
+    "oncran": true
+  },
+  {
     "package": "riverdist",
     "oncran": true
   }
